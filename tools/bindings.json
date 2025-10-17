@@ -1,0 +1,1724 @@
+[
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 159,
+    "controlSeq": "\\\\mathbb{N}",
+    "htmlEntity": "&#8469;",
+    "mathspeak": "naturals",
+    "rawArgs": [
+      "'\\\\mathbb{N}'",
+      "'&#8469;'",
+      "'naturals'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 168,
+    "controlSeq": "\\\\mathbb{P}",
+    "htmlEntity": "&#8473;",
+    "mathspeak": "P",
+    "rawArgs": [
+      "'\\\\mathbb{P}'",
+      "'&#8473;'",
+      "'P'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 173,
+    "controlSeq": "\\\\mathbb{Z}",
+    "htmlEntity": "&#8484;",
+    "mathspeak": "integers",
+    "rawArgs": [
+      "'\\\\mathbb{Z}'",
+      "'&#8484;'",
+      "'integers'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 178,
+    "controlSeq": "\\\\mathbb{Q}",
+    "htmlEntity": "&#8474;",
+    "mathspeak": "rationals",
+    "rawArgs": [
+      "'\\\\mathbb{Q}'",
+      "'&#8474;'",
+      "'rationals'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 183,
+    "controlSeq": "\\\\mathbb{R}",
+    "htmlEntity": "&#8477;",
+    "mathspeak": "reals",
+    "rawArgs": [
+      "'\\\\mathbb{R}'",
+      "'&#8477;'",
+      "'reals'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 193,
+    "controlSeq": "\\\\mathbb{C}",
+    "htmlEntity": "&#8450;",
+    "mathspeak": "complexes",
+    "rawArgs": [
+      "'\\\\mathbb{C}'",
+      "'&#8450;'",
+      "'complexes'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 199,
+    "controlSeq": "\\\\mathbb{H}",
+    "htmlEntity": "&#8461;",
+    "mathspeak": "quaternions",
+    "rawArgs": [
+      "'\\\\mathbb{H}'",
+      "'&#8461;'",
+      "'quaternions'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 202,
+    "controlSeq": "\\\\quad ",
+    "htmlEntity": "    ",
+    "mathspeak": "4 spaces",
+    "rawArgs": [
+      "'\\\\quad '",
+      "'    '",
+      "'4 spaces'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 207,
+    "controlSeq": "\\\\qquad ",
+    "htmlEntity": "        ",
+    "mathspeak": "8 spaces",
+    "rawArgs": [
+      "'\\\\qquad '",
+      "'        '",
+      "'8 spaces'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 220,
+    "controlSeq": "\\\\diamond ",
+    "htmlEntity": "&#9671;",
+    "mathspeak": "diamond",
+    "rawArgs": [
+      "'\\\\diamond '",
+      "'&#9671;'",
+      "'diamond'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 221,
+    "controlSeq": "\\\\bigtriangleup ",
+    "htmlEntity": "&#9651;",
+    "mathspeak": "triangle up",
+    "rawArgs": [
+      "'\\\\bigtriangleup '",
+      "'&#9651;'",
+      "'triangle up'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 226,
+    "controlSeq": "\\\\ominus ",
+    "htmlEntity": "&#8854;",
+    "mathspeak": "o minus",
+    "rawArgs": [
+      "'\\\\ominus '",
+      "'&#8854;'",
+      "'o minus'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 227,
+    "controlSeq": "\\\\uplus ",
+    "htmlEntity": "&#8846;",
+    "mathspeak": "disjoint union",
+    "rawArgs": [
+      "'\\\\uplus '",
+      "'&#8846;'",
+      "'disjoint union'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 228,
+    "controlSeq": "\\\\bigtriangledown ",
+    "htmlEntity": "&#9661;",
+    "mathspeak": "triangle down",
+    "rawArgs": [
+      "'\\\\bigtriangledown '",
+      "'&#9661;'",
+      "'triangle down'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 233,
+    "controlSeq": "\\\\sqcap ",
+    "htmlEntity": "&#8851;",
+    "mathspeak": "greatest lower bound",
+    "rawArgs": [
+      "'\\\\sqcap '",
+      "'&#8851;'",
+      "'greatest lower bound'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 238,
+    "controlSeq": "\\\\triangleleft ",
+    "htmlEntity": "&#8882;",
+    "mathspeak": "triangle left",
+    "rawArgs": [
+      "'\\\\triangleleft '",
+      "'&#8882;'",
+      "'triangle left'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 243,
+    "controlSeq": "\\\\sqcup ",
+    "htmlEntity": "&#8852;",
+    "mathspeak": "least upper bound",
+    "rawArgs": [
+      "'\\\\sqcup '",
+      "'&#8852;'",
+      "'least upper bound'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 244,
+    "controlSeq": "\\\\triangleright ",
+    "htmlEntity": "&#8883;",
+    "mathspeak": "triangle right",
+    "rawArgs": [
+      "'\\\\triangleright '",
+      "'&#8883;'",
+      "'triangle right'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 250,
+    "controlSeq": "\\\\odot ",
+    "htmlEntity": "&#8857;",
+    "mathspeak": "circle dot",
+    "rawArgs": [
+      "'\\\\odot '",
+      "'&#8857;'",
+      "'circle dot'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 255,
+    "controlSeq": "\\\\bigcirc ",
+    "htmlEntity": "&#9711;",
+    "mathspeak": "circle",
+    "rawArgs": [
+      "'\\\\bigcirc '",
+      "'&#9711;'",
+      "'circle'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 256,
+    "controlSeq": "\\\\dagger ",
+    "htmlEntity": "&#0134;",
+    "mathspeak": "dagger",
+    "rawArgs": [
+      "'\\\\dagger '",
+      "'&#0134;'",
+      "'dagger'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 257,
+    "controlSeq": "\\\\ddagger ",
+    "htmlEntity": "&#135;",
+    "mathspeak": "big dagger",
+    "rawArgs": [
+      "'\\\\ddagger '",
+      "'&#135;'",
+      "'big dagger'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 258,
+    "controlSeq": "\\\\wr ",
+    "htmlEntity": "&#8768;",
+    "mathspeak": "wreath",
+    "rawArgs": [
+      "'\\\\wr '",
+      "'&#8768;'",
+      "'wreath'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 259,
+    "controlSeq": "\\\\amalg ",
+    "htmlEntity": "&#8720;",
+    "mathspeak": "amalgam",
+    "rawArgs": [
+      "'\\\\amalg '",
+      "'&#8720;'",
+      "'amalgam'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 262,
+    "controlSeq": "\\\\models ",
+    "htmlEntity": "&#8872;",
+    "mathspeak": "models",
+    "rawArgs": [
+      "'\\\\models '",
+      "'&#8872;'",
+      "'models'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 263,
+    "controlSeq": "\\\\prec ",
+    "htmlEntity": "&#8826;",
+    "mathspeak": "precedes",
+    "rawArgs": [
+      "'\\\\prec '",
+      "'&#8826;'",
+      "'precedes'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 264,
+    "controlSeq": "\\\\succ ",
+    "htmlEntity": "&#8827;",
+    "mathspeak": "succeeds",
+    "rawArgs": [
+      "'\\\\succ '",
+      "'&#8827;'",
+      "'succeeds'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 265,
+    "controlSeq": "\\\\preceq ",
+    "htmlEntity": "&#8828;",
+    "mathspeak": "precedes or equals",
+    "rawArgs": [
+      "'\\\\preceq '",
+      "'&#8828;'",
+      "'precedes or equals'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 270,
+    "controlSeq": "\\\\succeq ",
+    "htmlEntity": "&#8829;",
+    "mathspeak": "succeeds or equals",
+    "rawArgs": [
+      "'\\\\succeq '",
+      "'&#8829;'",
+      "'succeeds or equals'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 275,
+    "controlSeq": "\\\\simeq ",
+    "htmlEntity": "&#8771;",
+    "mathspeak": "similar or equal to",
+    "rawArgs": [
+      "'\\\\simeq '",
+      "'&#8771;'",
+      "'similar or equal to'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 280,
+    "controlSeq": "\\\\mid ",
+    "htmlEntity": "&#8739;",
+    "mathspeak": "divides",
+    "rawArgs": [
+      "'\\\\mid '",
+      "'&#8739;'",
+      "'divides'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 281,
+    "controlSeq": "\\\\ll ",
+    "htmlEntity": "&#8810;",
+    "mathspeak": "ll",
+    "rawArgs": [
+      "'\\\\ll '",
+      "'&#8810;'",
+      "'ll'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 282,
+    "controlSeq": "\\\\gg ",
+    "htmlEntity": "&#8811;",
+    "mathspeak": "gg",
+    "rawArgs": [
+      "'\\\\gg '",
+      "'&#8811;'",
+      "'gg'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 283,
+    "controlSeq": "\\\\parallel ",
+    "htmlEntity": "&#8741;",
+    "mathspeak": "parallel with",
+    "rawArgs": [
+      "'\\\\parallel '",
+      "'&#8741;'",
+      "'parallel with'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 288,
+    "controlSeq": "\\\\nparallel ",
+    "htmlEntity": "&#8742;",
+    "mathspeak": "not parallel with",
+    "rawArgs": [
+      "'\\\\nparallel '",
+      "'&#8742;'",
+      "'not parallel with'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 293,
+    "controlSeq": "\\\\bowtie ",
+    "htmlEntity": "&#8904;",
+    "mathspeak": "bowtie",
+    "rawArgs": [
+      "'\\\\bowtie '",
+      "'&#8904;'",
+      "'bowtie'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 294,
+    "controlSeq": "\\\\sqsubset ",
+    "htmlEntity": "&#8847;",
+    "mathspeak": "square subset",
+    "rawArgs": [
+      "'\\\\sqsubset '",
+      "'&#8847;'",
+      "'square subset'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 299,
+    "controlSeq": "\\\\sqsupset ",
+    "htmlEntity": "&#8848;",
+    "mathspeak": "square superset",
+    "rawArgs": [
+      "'\\\\sqsupset '",
+      "'&#8848;'",
+      "'square superset'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 304,
+    "controlSeq": "\\\\smile ",
+    "htmlEntity": "&#8995;",
+    "mathspeak": "smile",
+    "rawArgs": [
+      "'\\\\smile '",
+      "'&#8995;'",
+      "'smile'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 305,
+    "controlSeq": "\\\\sqsubseteq ",
+    "htmlEntity": "&#8849;",
+    "mathspeak": "square subset or equal to",
+    "rawArgs": [
+      "'\\\\sqsubseteq '",
+      "'&#8849;'",
+      "'square subset or equal to'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 310,
+    "controlSeq": "\\\\sqsupseteq ",
+    "htmlEntity": "&#8850;",
+    "mathspeak": "square superset or equal to",
+    "rawArgs": [
+      "'\\\\sqsupseteq '",
+      "'&#8850;'",
+      "'square superset or equal to'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 315,
+    "controlSeq": "\\\\doteq ",
+    "htmlEntity": "&#8784;",
+    "mathspeak": "dotted equals",
+    "rawArgs": [
+      "'\\\\doteq '",
+      "'&#8784;'",
+      "'dotted equals'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 316,
+    "controlSeq": "\\\\frown ",
+    "htmlEntity": "&#8994;",
+    "mathspeak": "frown",
+    "rawArgs": [
+      "'\\\\frown '",
+      "'&#8994;'",
+      "'frown'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 317,
+    "controlSeq": "\\\\vdash ",
+    "htmlEntity": "&#8870;",
+    "mathspeak": "v dash",
+    "rawArgs": [
+      "'\\\\vdash '",
+      "'&#8870;'",
+      "'v dash'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 318,
+    "controlSeq": "\\\\dashv ",
+    "htmlEntity": "&#8867;",
+    "mathspeak": "dash v",
+    "rawArgs": [
+      "'\\\\dashv '",
+      "'&#8867;'",
+      "'dash v'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 319,
+    "controlSeq": "\\\\nless ",
+    "htmlEntity": "&#8814;",
+    "mathspeak": "not less than",
+    "rawArgs": [
+      "'\\\\nless '",
+      "'&#8814;'",
+      "'not less than'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 320,
+    "controlSeq": "\\\\ngtr ",
+    "htmlEntity": "&#8815;",
+    "mathspeak": "not greater than",
+    "rawArgs": [
+      "'\\\\ngtr '",
+      "'&#8815;'",
+      "'not greater than'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 323,
+    "controlSeq": "\\\\longleftarrow ",
+    "htmlEntity": "&#8592;",
+    "mathspeak": "left arrow",
+    "rawArgs": [
+      "'\\\\longleftarrow '",
+      "'&#8592;'",
+      "'left arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 328,
+    "controlSeq": "\\\\longrightarrow ",
+    "htmlEntity": "&#8594;",
+    "mathspeak": "right arrow",
+    "rawArgs": [
+      "'\\\\longrightarrow '",
+      "'&#8594;'",
+      "'right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 333,
+    "controlSeq": "\\\\Longleftarrow ",
+    "htmlEntity": "&#8656;",
+    "mathspeak": "left arrow",
+    "rawArgs": [
+      "'\\\\Longleftarrow '",
+      "'&#8656;'",
+      "'left arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 338,
+    "controlSeq": "\\\\Longrightarrow ",
+    "htmlEntity": "&#8658;",
+    "mathspeak": "right arrow",
+    "rawArgs": [
+      "'\\\\Longrightarrow '",
+      "'&#8658;'",
+      "'right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 343,
+    "controlSeq": "\\\\longleftrightarrow ",
+    "htmlEntity": "&#8596;",
+    "mathspeak": "left and right arrow",
+    "rawArgs": [
+      "'\\\\longleftrightarrow '",
+      "'&#8596;'",
+      "'left and right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 348,
+    "controlSeq": "\\\\updownarrow ",
+    "htmlEntity": "&#8597;",
+    "mathspeak": "up and down arrow",
+    "rawArgs": [
+      "'\\\\updownarrow '",
+      "'&#8597;'",
+      "'up and down arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 353,
+    "controlSeq": "\\\\Longleftrightarrow ",
+    "htmlEntity": "&#8660;",
+    "mathspeak": "left and right arrow",
+    "rawArgs": [
+      "'\\\\Longleftrightarrow '",
+      "'&#8660;'",
+      "'left and right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 358,
+    "controlSeq": "\\\\Updownarrow ",
+    "htmlEntity": "&#8661;",
+    "mathspeak": "up and down arrow",
+    "rawArgs": [
+      "'\\\\Updownarrow '",
+      "'&#8661;'",
+      "'up and down arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 363,
+    "controlSeq": "\\\\mapsto ",
+    "htmlEntity": "&#8614;",
+    "mathspeak": "maps to",
+    "rawArgs": [
+      "'\\\\mapsto '",
+      "'&#8614;'",
+      "'maps to'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 364,
+    "controlSeq": "\\\\nearrow ",
+    "htmlEntity": "&#8599;",
+    "mathspeak": "northeast arrow",
+    "rawArgs": [
+      "'\\\\nearrow '",
+      "'&#8599;'",
+      "'northeast arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 369,
+    "controlSeq": "\\\\hookleftarrow ",
+    "htmlEntity": "&#8617;",
+    "mathspeak": "hook left arrow",
+    "rawArgs": [
+      "'\\\\hookleftarrow '",
+      "'&#8617;'",
+      "'hook left arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 374,
+    "controlSeq": "\\\\hookrightarrow ",
+    "htmlEntity": "&#8618;",
+    "mathspeak": "hook right arrow",
+    "rawArgs": [
+      "'\\\\hookrightarrow '",
+      "'&#8618;'",
+      "'hook right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 379,
+    "controlSeq": "\\\\searrow ",
+    "htmlEntity": "&#8600;",
+    "mathspeak": "southeast arrow",
+    "rawArgs": [
+      "'\\\\searrow '",
+      "'&#8600;'",
+      "'southeast arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 384,
+    "controlSeq": "\\\\leftharpoonup ",
+    "htmlEntity": "&#8636;",
+    "mathspeak": "left harpoon up",
+    "rawArgs": [
+      "'\\\\leftharpoonup '",
+      "'&#8636;'",
+      "'left harpoon up'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 389,
+    "controlSeq": "\\\\rightharpoonup ",
+    "htmlEntity": "&#8640;",
+    "mathspeak": "right harpoon up",
+    "rawArgs": [
+      "'\\\\rightharpoonup '",
+      "'&#8640;'",
+      "'right harpoon up'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 394,
+    "controlSeq": "\\\\swarrow ",
+    "htmlEntity": "&#8601;",
+    "mathspeak": "southwest arrow",
+    "rawArgs": [
+      "'\\\\swarrow '",
+      "'&#8601;'",
+      "'southwest arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 399,
+    "controlSeq": "\\\\leftharpoondown ",
+    "htmlEntity": "&#8637;",
+    "mathspeak": "left harpoon down",
+    "rawArgs": [
+      "'\\\\leftharpoondown '",
+      "'&#8637;'",
+      "'left harpoon down'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 404,
+    "controlSeq": "\\\\rightharpoondown ",
+    "htmlEntity": "&#8641;",
+    "mathspeak": "right harpoon down",
+    "rawArgs": [
+      "'\\\\rightharpoondown '",
+      "'&#8641;'",
+      "'right harpoon down'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 409,
+    "controlSeq": "\\\\nwarrow ",
+    "htmlEntity": "&#8598;",
+    "mathspeak": "northwest arrow",
+    "rawArgs": [
+      "'\\\\nwarrow '",
+      "'&#8598;'",
+      "'northwest arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 416,
+    "controlSeq": "\\\\ldots ",
+    "htmlEntity": "&#8230;",
+    "mathspeak": "l dots",
+    "rawArgs": [
+      "'\\\\ldots '",
+      "'&#8230;'",
+      "'l dots'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 417,
+    "controlSeq": "\\\\cdots ",
+    "htmlEntity": "&#8943;",
+    "mathspeak": "c dots",
+    "rawArgs": [
+      "'\\\\cdots '",
+      "'&#8943;'",
+      "'c dots'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 418,
+    "controlSeq": "\\\\vdots ",
+    "htmlEntity": "&#8942;",
+    "mathspeak": "v dots",
+    "rawArgs": [
+      "'\\\\vdots '",
+      "'&#8942;'",
+      "'v dots'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 419,
+    "controlSeq": "\\\\ddots ",
+    "htmlEntity": "&#8945;",
+    "mathspeak": "d dots",
+    "rawArgs": [
+      "'\\\\ddots '",
+      "'&#8945;'",
+      "'d dots'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 420,
+    "controlSeq": "\\\\surd ",
+    "htmlEntity": "&#8730;",
+    "mathspeak": "unresolved root",
+    "rawArgs": [
+      "'\\\\surd '",
+      "'&#8730;'",
+      "'unresolved root'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 421,
+    "controlSeq": "\\\\triangle ",
+    "htmlEntity": "&#9651;",
+    "mathspeak": "triangle",
+    "rawArgs": [
+      "'\\\\triangle '",
+      "'&#9651;'",
+      "'triangle'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 422,
+    "controlSeq": "\\\\ell ",
+    "htmlEntity": "&#8467;",
+    "mathspeak": "ell",
+    "rawArgs": [
+      "'\\\\ell '",
+      "'&#8467;'",
+      "'ell'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 423,
+    "controlSeq": "\\\\top ",
+    "htmlEntity": "&#8868;",
+    "mathspeak": "top",
+    "rawArgs": [
+      "'\\\\top '",
+      "'&#8868;'",
+      "'top'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 424,
+    "controlSeq": "\\\\flat ",
+    "htmlEntity": "&#9837;",
+    "mathspeak": "flat",
+    "rawArgs": [
+      "'\\\\flat '",
+      "'&#9837;'",
+      "'flat'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 425,
+    "controlSeq": "\\\\natural ",
+    "htmlEntity": "&#9838;",
+    "mathspeak": "natural",
+    "rawArgs": [
+      "'\\\\natural '",
+      "'&#9838;'",
+      "'natural'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 426,
+    "controlSeq": "\\\\sharp ",
+    "htmlEntity": "&#9839;",
+    "mathspeak": "sharp",
+    "rawArgs": [
+      "'\\\\sharp '",
+      "'&#9839;'",
+      "'sharp'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 427,
+    "controlSeq": "\\\\wp ",
+    "htmlEntity": "&#8472;",
+    "mathspeak": "wp",
+    "rawArgs": [
+      "'\\\\wp '",
+      "'&#8472;'",
+      "'wp'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 428,
+    "controlSeq": "\\\\bot ",
+    "htmlEntity": "&#8869;",
+    "mathspeak": "bot",
+    "rawArgs": [
+      "'\\\\bot '",
+      "'&#8869;'",
+      "'bot'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 429,
+    "controlSeq": "\\\\clubsuit ",
+    "htmlEntity": "&#9827;",
+    "mathspeak": "club suit",
+    "rawArgs": [
+      "'\\\\clubsuit '",
+      "'&#9827;'",
+      "'club suit'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 430,
+    "controlSeq": "\\\\diamondsuit ",
+    "htmlEntity": "&#9826;",
+    "mathspeak": "diamond suit",
+    "rawArgs": [
+      "'\\\\diamondsuit '",
+      "'&#9826;'",
+      "'diamond suit'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 435,
+    "controlSeq": "\\\\heartsuit ",
+    "htmlEntity": "&#9825;",
+    "mathspeak": "heart suit",
+    "rawArgs": [
+      "'\\\\heartsuit '",
+      "'&#9825;'",
+      "'heart suit'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 440,
+    "controlSeq": "\\\\spadesuit ",
+    "htmlEntity": "&#9824;",
+    "mathspeak": "spade suit",
+    "rawArgs": [
+      "'\\\\spadesuit '",
+      "'&#9824;'",
+      "'spade suit'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 446,
+    "controlSeq": "\\\\parallelogram ",
+    "htmlEntity": "&#9649;",
+    "mathspeak": "parallelogram",
+    "rawArgs": [
+      "'\\\\parallelogram '",
+      "'&#9649;'",
+      "'parallelogram'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 451,
+    "controlSeq": "\\\\square ",
+    "htmlEntity": "&#11036;",
+    "mathspeak": "square",
+    "rawArgs": [
+      "'\\\\square '",
+      "'&#11036;'",
+      "'square'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 454,
+    "controlSeq": "\\\\oint ",
+    "htmlEntity": "&#8750;",
+    "mathspeak": "o int",
+    "rawArgs": [
+      "'\\\\oint '",
+      "'&#8750;'",
+      "'o int'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 455,
+    "controlSeq": "\\\\bigcap ",
+    "htmlEntity": "&#8745;",
+    "mathspeak": "big cap",
+    "rawArgs": [
+      "'\\\\bigcap '",
+      "'&#8745;'",
+      "'big cap'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 456,
+    "controlSeq": "\\\\bigcup ",
+    "htmlEntity": "&#8746;",
+    "mathspeak": "big cup",
+    "rawArgs": [
+      "'\\\\bigcup '",
+      "'&#8746;'",
+      "'big cup'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 457,
+    "controlSeq": "\\\\bigsqcup ",
+    "htmlEntity": "&#8852;",
+    "mathspeak": "big square cup",
+    "rawArgs": [
+      "'\\\\bigsqcup '",
+      "'&#8852;'",
+      "'big square cup'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 462,
+    "controlSeq": "\\\\bigvee ",
+    "htmlEntity": "&#8744;",
+    "mathspeak": "big vee",
+    "rawArgs": [
+      "'\\\\bigvee '",
+      "'&#8744;'",
+      "'big vee'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 463,
+    "controlSeq": "\\\\bigwedge ",
+    "htmlEntity": "&#8743;",
+    "mathspeak": "big wedge",
+    "rawArgs": [
+      "'\\\\bigwedge '",
+      "'&#8743;'",
+      "'big wedge'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 464,
+    "controlSeq": "\\\\bigodot ",
+    "htmlEntity": "&#8857;",
+    "mathspeak": "big o dot",
+    "rawArgs": [
+      "'\\\\bigodot '",
+      "'&#8857;'",
+      "'big o dot'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 465,
+    "controlSeq": "\\\\bigotimes ",
+    "htmlEntity": "&#8855;",
+    "mathspeak": "big o times",
+    "rawArgs": [
+      "'\\\\bigotimes '",
+      "'&#8855;'",
+      "'big o times'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 470,
+    "controlSeq": "\\\\bigoplus ",
+    "htmlEntity": "&#8853;",
+    "mathspeak": "big o plus",
+    "rawArgs": [
+      "'\\\\bigoplus '",
+      "'&#8853;'",
+      "'big o plus'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 471,
+    "controlSeq": "\\\\biguplus ",
+    "htmlEntity": "&#8846;",
+    "mathspeak": "big u plus",
+    "rawArgs": [
+      "'\\\\biguplus '",
+      "'&#8846;'",
+      "'big u plus'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 474,
+    "controlSeq": "\\\\lfloor ",
+    "htmlEntity": "&#8970;",
+    "mathspeak": "left floor",
+    "rawArgs": [
+      "'\\\\lfloor '",
+      "'&#8970;'",
+      "'left floor'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 475,
+    "controlSeq": "\\\\rfloor ",
+    "htmlEntity": "&#8971;",
+    "mathspeak": "right floor",
+    "rawArgs": [
+      "'\\\\rfloor '",
+      "'&#8971;'",
+      "'right floor'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 476,
+    "controlSeq": "\\\\lceil ",
+    "htmlEntity": "&#8968;",
+    "mathspeak": "left ceiling",
+    "rawArgs": [
+      "'\\\\lceil '",
+      "'&#8968;'",
+      "'left ceiling'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 477,
+    "controlSeq": "\\\\rceil ",
+    "htmlEntity": "&#8969;",
+    "mathspeak": "right ceiling",
+    "rawArgs": [
+      "'\\\\rceil '",
+      "'&#8969;'",
+      "'right ceiling'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 478,
+    "controlSeq": "\\\\lbrace ",
+    "htmlEntity": "{",
+    "mathspeak": "left brace",
+    "rawArgs": [
+      "'\\\\lbrace '",
+      "'{'",
+      "'left brace'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 483,
+    "controlSeq": "\\\\rbrace ",
+    "htmlEntity": "}",
+    "mathspeak": "right brace",
+    "rawArgs": [
+      "'\\\\rbrace '",
+      "'}'",
+      "'right brace'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 488,
+    "controlSeq": "[",
+    "htmlEntity": "left bracket",
+    "mathspeak": null,
+    "rawArgs": [
+      "'['",
+      "'left bracket'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 489,
+    "controlSeq": "]",
+    "htmlEntity": "right bracket",
+    "mathspeak": null,
+    "rawArgs": [
+      "']'",
+      "'right bracket'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 492,
+    "controlSeq": "/",
+    "htmlEntity": "slash",
+    "mathspeak": null,
+    "rawArgs": [
+      "'/'",
+      "'slash'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 493,
+    "controlSeq": "|",
+    "htmlEntity": "vertical bar",
+    "mathspeak": null,
+    "rawArgs": [
+      "'|'",
+      "'vertical bar'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 494,
+    "controlSeq": "\\\\perp ",
+    "htmlEntity": "&perp;",
+    "mathspeak": "perpendicular",
+    "rawArgs": [
+      "'\\\\perp '",
+      "'&perp;'",
+      "'perpendicular'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 499,
+    "controlSeq": "\\\\nabla ",
+    "htmlEntity": "&nabla;",
+    "mathspeak": null,
+    "rawArgs": [
+      "'\\\\nabla '",
+      "'&nabla;'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 500,
+    "controlSeq": "\\\\hbar ",
+    "htmlEntity": "&#8463;",
+    "mathspeak": "horizontal bar",
+    "rawArgs": [
+      "'\\\\hbar '",
+      "'&#8463;'",
+      "'horizontal bar'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 505,
+    "controlSeq": "\\\\text\\\\AA ",
+    "htmlEntity": "&#8491;",
+    "mathspeak": "AA",
+    "rawArgs": [
+      "'\\\\text\\\\AA '",
+      "'&#8491;'",
+      "'AA'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 510,
+    "controlSeq": "\\\\circ ",
+    "htmlEntity": "&#8728;",
+    "mathspeak": "circle",
+    "rawArgs": [
+      "'\\\\circ '",
+      "'&#8728;'",
+      "'circle'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 512,
+    "controlSeq": "\\\\bullet ",
+    "htmlEntity": "&bull;",
+    "mathspeak": "bullet",
+    "rawArgs": [
+      "'\\\\bullet '",
+      "'&bull;'",
+      "'bullet'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 518,
+    "controlSeq": "\\\\setminus ",
+    "htmlEntity": "&#8726;",
+    "mathspeak": "set minus",
+    "rawArgs": [
+      "'\\\\setminus '",
+      "'&#8726;'",
+      "'set minus'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 527,
+    "controlSeq": "\\\\neg ",
+    "htmlEntity": "&not;",
+    "mathspeak": "not",
+    "rawArgs": [
+      "'\\\\neg '",
+      "'&not;'",
+      "'not'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 535,
+    "controlSeq": "\\\\dots ",
+    "htmlEntity": "&hellip;",
+    "mathspeak": "ellipsis",
+    "rawArgs": [
+      "'\\\\dots '",
+      "'&hellip;'",
+      "'ellipsis'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 542,
+    "controlSeq": "\\\\downarrow ",
+    "htmlEntity": "&darr;",
+    "mathspeak": "converges with",
+    "rawArgs": [
+      "'\\\\downarrow '",
+      "'&darr;'",
+      "'converges with'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 548,
+    "controlSeq": "\\\\Downarrow ",
+    "htmlEntity": "&dArr;",
+    "mathspeak": "down arrow",
+    "rawArgs": [
+      "'\\\\Downarrow '",
+      "'&dArr;'",
+      "'down arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 553,
+    "controlSeq": "\\\\uparrow ",
+    "htmlEntity": "&uarr;",
+    "mathspeak": "diverges from",
+    "rawArgs": [
+      "'\\\\uparrow '",
+      "'&uarr;'",
+      "'diverges from'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 555,
+    "controlSeq": "\\\\Uparrow ",
+    "htmlEntity": "&uArr;",
+    "mathspeak": "up arrow",
+    "rawArgs": [
+      "'\\\\Uparrow '",
+      "'&uArr;'",
+      "'up arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 561,
+    "controlSeq": "\\\\rightarrow ",
+    "htmlEntity": "&rarr;",
+    "mathspeak": "right arrow",
+    "rawArgs": [
+      "'\\\\rightarrow '",
+      "'&rarr;'",
+      "'right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 569,
+    "controlSeq": "\\\\Rightarrow ",
+    "htmlEntity": "&rArr;",
+    "mathspeak": "right arrow",
+    "rawArgs": [
+      "'\\\\Rightarrow '",
+      "'&rArr;'",
+      "'right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 577,
+    "controlSeq": "\\\\leftarrow ",
+    "htmlEntity": "&larr;",
+    "mathspeak": "left arrow",
+    "rawArgs": [
+      "'\\\\leftarrow '",
+      "'&larr;'",
+      "'left arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 589,
+    "controlSeq": "\\\\Leftarrow ",
+    "htmlEntity": "&lArr;",
+    "mathspeak": "left arrow",
+    "rawArgs": [
+      "'\\\\Leftarrow '",
+      "'&lArr;'",
+      "'left arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 598,
+    "controlSeq": "\\\\leftrightarrow ",
+    "htmlEntity": "&harr;",
+    "mathspeak": "left and right arrow",
+    "rawArgs": [
+      "'\\\\leftrightarrow '",
+      "'&harr;'",
+      "'left and right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 609,
+    "controlSeq": "\\\\Leftrightarrow ",
+    "htmlEntity": "&hArr;",
+    "mathspeak": "left and right arrow",
+    "rawArgs": [
+      "'\\\\Leftrightarrow '",
+      "'&hArr;'",
+      "'left and right arrow'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 614,
+    "controlSeq": "\\\\Re ",
+    "htmlEntity": "&real;",
+    "mathspeak": "real",
+    "rawArgs": [
+      "'\\\\Re '",
+      "'&real;'",
+      "'real'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 622,
+    "controlSeq": "\\\\Im ",
+    "htmlEntity": "&image;",
+    "mathspeak": "imaginary",
+    "rawArgs": [
+      "'\\\\Im '",
+      "'&image;'",
+      "'imaginary'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 624,
+    "controlSeq": "\\\\partial ",
+    "htmlEntity": "&part;",
+    "mathspeak": "partial",
+    "rawArgs": [
+      "'\\\\partial '",
+      "'&part;'",
+      "'partial'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 630,
+    "controlSeq": "\\\\pounds ",
+    "htmlEntity": "&pound;",
+    "mathspeak": null,
+    "rawArgs": [
+      "'\\\\pounds '",
+      "'&pound;'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 636,
+    "controlSeq": "\\\\aleph ",
+    "htmlEntity": "&alefsym;",
+    "mathspeak": "alef sym",
+    "rawArgs": [
+      "'\\\\aleph '",
+      "'&alefsym;'",
+      "'alef sym'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 642,
+    "controlSeq": "\\\\exists ",
+    "htmlEntity": "&exist;",
+    "mathspeak": "there exists at least 1",
+    "rawArgs": [
+      "'\\\\exists '",
+      "'&exist;'",
+      "'there exists at least 1'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 644,
+    "controlSeq": "\\\\nexists ",
+    "htmlEntity": "&#8708;",
+    "mathspeak": "there is no",
+    "rawArgs": [
+      "'\\\\nexists '",
+      "'&#8708;'",
+      "'there is no'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 682,
+    "controlSeq": "\\\\degree ",
+    "htmlEntity": "&deg;",
+    "mathspeak": "degrees",
+    "rawArgs": [
+      "'\\\\degree '",
+      "'&deg;'",
+      "'degrees'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 688,
+    "controlSeq": "\\\\angle ",
+    "htmlEntity": "&ang;",
+    "mathspeak": "angle",
+    "rawArgs": [
+      "'\\\\angle '",
+      "'&ang;'",
+      "'angle'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/advancedSymbols.ts",
+    "line": 693,
+    "controlSeq": "\\\\measuredangle ",
+    "htmlEntity": "&#8737;",
+    "mathspeak": "measured angle",
+    "rawArgs": [
+      "'\\\\measuredangle '",
+      "'&#8737;'",
+      "'measured angle'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 747,
+    "controlSeq": "'",
+    "htmlEntity": "&prime;",
+    "mathspeak": "prime",
+    "rawArgs": [
+      "\"'\"",
+      "'&prime;'",
+      "'prime'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 748,
+    "controlSeq": "″",
+    "htmlEntity": "&Prime;",
+    "mathspeak": "double prime",
+    "rawArgs": [
+      "'″'",
+      "'&Prime;'",
+      "'double prime'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 754,
+    "controlSeq": "\\\\backslash ",
+    "htmlEntity": "\\\\",
+    "mathspeak": "backslash",
+    "rawArgs": [
+      "'\\\\backslash '",
+      "'\\\\'",
+      "'backslash'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 757,
+    "controlSeq": "\\\\$",
+    "htmlEntity": "$",
+    "mathspeak": "dollar",
+    "rawArgs": [
+      "'\\\\$'",
+      "'$'",
+      "'dollar'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 759,
+    "controlSeq": "\\\\square ",
+    "htmlEntity": "\\u25A1",
+    "mathspeak": "square",
+    "rawArgs": [
+      "'\\\\square '",
+      "'\\u25A1'",
+      "'square'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 760,
+    "controlSeq": "\\\\mid ",
+    "htmlEntity": "\\u2223",
+    "mathspeak": "mid",
+    "rawArgs": [
+      "'\\\\mid '",
+      "'\\u2223'",
+      "'mid'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 792,
+    "controlSeq": "\\\\parallel ",
+    "htmlEntity": "&#x2225;",
+    "mathspeak": "parallel",
+    "rawArgs": [
+      "'\\\\parallel '",
+      "'&#x2225;'",
+      "'parallel'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 798,
+    "controlSeq": "\\\\nparallel ",
+    "htmlEntity": "&#x2226;",
+    "mathspeak": "not parallel",
+    "rawArgs": [
+      "'\\\\nparallel '",
+      "'&#x2226;'",
+      "'not parallel'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 804,
+    "controlSeq": "\\\\perp ",
+    "htmlEntity": "&#x27C2;",
+    "mathspeak": "perpendicular",
+    "rawArgs": [
+      "'\\\\perp '",
+      "'&#x27C2;'",
+      "'perpendicular'"
+    ]
+  },
+  {
+    "file": "/workspaces/mathquill/src/commands/math/basicSymbols.ts",
+    "line": 1227,
+    "controlSeq": "\\\\infty ",
+    "htmlEntity": "&infin;",
+    "mathspeak": "infinity",
+    "rawArgs": [
+      "'\\\\infty '",
+      "'&infin;'",
+      "'infinity'"
+    ]
+  }
+]
